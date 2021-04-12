@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Organizze</string>
+
+    <string name="intro_1_title">Organize suas contas \n de onde estiver</string>
+    <string name="intro_1_description">Simples, facil de usar e grátis</string>
+    <string name="intro_2_title">Saiba para onde esta indo o seu dinheiro</string>
+    <string name="intro_2_description">Categorizando seus lançametos e vendo o \n destino de cada centavo</string>
+    <string name="intro_3_title">Nunca mais esqueça de \n pagar suas contas</string>
+    <string name="intro_3_description">Receba alertas quando quiser</string>
+    <string name="intro_4_title">Tudo organzidado, no \n celular ou computador</string>
+    <string name="intro_4_description">Use no seu smartphone e acessando o \n Organizze no site </string>
+    <string name="title_activity_home">HomeActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+</resources>

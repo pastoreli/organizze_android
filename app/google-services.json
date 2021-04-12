@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "733034864099",
+    "project_id": "organizze-a34fb",
+    "storage_bucket": "organizze-a34fb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:733034864099:android:7c9619d4a1961a5f1854d6",
+        "android_client_info": {
+          "package_name": "com.pastoreli.organizze"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "733034864099-ntc3hoigk7kn1icfahu81lqi2k03sf55.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pastoreli.organizze",
+            "certificate_hash": "fcf8546599eb044ed5daa1f45e61b7694a33fe63"
+          }
+        },
+        {
+          "client_id": "733034864099-vmdfb3fmb7nr9ati429o8rvrqrgnf78l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlLTLhUpmDXJvl4blUOhUhmRmZRUXO3W0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "733034864099-vmdfb3fmb7nr9ati429o8rvrqrgnf78l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

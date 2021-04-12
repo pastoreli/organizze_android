@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#01C7D2</color>
+    <color name="primary_dark">#00B2BC</color>
+    <color name="secondary">#FF706A</color>
+    <color name="secondary_dark">#B34D4A</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!--  Revenue colors  -->
+    <color name="colorPrimaryExpenditure">#FF706A</color>
+    <color name="colorPrimaryDarkExpenditure">#E66560</color>
+    <color name="colorSecondaryExpenditure">#FF706A</color>
+    <color name="colorSecondaryDarkExpenditure">#FF706A</color>
+
+    <!--  Expenditure colors  -->
+    <color name="colorPrimaryRevenue">#00D39E</color>
+    <color name="colorPrimaryDarkRevenue">#00BE8B</color>
+    <color name="colorSecondaryAccentRevenue">#00D39E</color>
+    <color name="colorSecondaryDarkAccentRevenue">#00D39E</color>
+
+</resources>
